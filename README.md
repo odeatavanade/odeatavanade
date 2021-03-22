@@ -1,0 +1,2 @@
+- :metal: Hi, I’m @odeatavanade
+- 👀 I’m DevOps Coach @[avanade](https://www.avanade.com/)
